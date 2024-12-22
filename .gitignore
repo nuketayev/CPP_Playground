@@ -1,0 +1,9 @@
+# Ignore VS Code settings
+.vscode/settings.json
+
+# Ignore executable files
+*.exe
+*.out
+
+# Only include .cpp files
+!*.cpp

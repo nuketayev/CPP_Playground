@@ -7,7 +7,7 @@
  {
     srand(time(NULL));
 
-    int num = (rand() % 2) + 1;
+    int num = (rand() % 2);
 
     std::cout << num << '\n';
 
